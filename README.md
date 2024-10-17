@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy BallenaPunk</a> 👋</h1>
 </div>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.DR1pDJIejFdcmRFcfKyt2wAAAA%26pid%3DApi&f=1&ipt=3c72869b8cafc1ee0059548cb27e03d8694b50379957b3c8df28c70d181665a3&ipo=images">
+<img src="https://retos-directivos.eae.es/wp-content/uploads/2022/12/ciberseguridad-en-empresas-1024x709.jpg">
 
 ## Sobre mi
 
